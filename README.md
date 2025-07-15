@@ -66,7 +66,7 @@ Here is a Reddit user’s post and comment history. Analyze it and write a compl
 - Anything else noticeable
 
 Step 3: Save the Persona
-Edit
+as
 Hungry-Move-6603_persona.txt
 
 
