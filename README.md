@@ -47,4 +47,26 @@ bash:
 Copy Edit
 python reddit_persona_builder.py
 
+Step 2: Generate the Persona 
+Open the file Hungry-Move-6603_raw_data.txt
+Open ChatGPT and paste this prompt:
+sql
+Copy
+Edit
+You are a persona builder AI.
+
+Here is a Reddit user’s post and comment history. Analyze it and write a complete user persona that includes:
+- Name (you can assume one)
+- Age range (based on clues)
+- Interests and hobbies
+- Personality traits
+- Preferred subreddits
+- Political/ideological leanings (if any)
+- Writing style and tone
+- Anything else noticeable
+
+Step 3: Save the Persona
+Edit
+Hungry-Move-6603_persona.txt
+
 
